@@ -1,0 +1,60 @@
+#diagram {
+	width: 900px;
+	margin: 100px auto 0;
+
+}
+#topp {
+	height: 200px;
+	width: 900px;
+	font-size: 20px;
+	color: #090c0b;
+	text-align: center;
+	margin: 0 auto 0;
+}
+#topp2 {
+	height: 37px;
+	width: 900px;
+	background-color: #cce6ff;
+	color: #000;
+}
+#vänster {
+	width: 300px;
+	height:600px;
+	background-color: #99ccff;
+	float: left;
+}
+#mitten {
+	width: 600px;
+	background-color: #b3d9ff;
+	float: left;
+	height: 600px;
+	text-align: center;
+	color: #000;
+}
+.violet{
+border: rgb(124, 150, 199) 3px solid;
+}
+h5{
+   color: darkslateblue;
+
+}
+h4{
+	color: midnightblue;
+}
+h3{
+	color: rgb(136, 91, 177);
+}
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.small{
+    font-size: small;
+}
+.typ{
+    font-family: cursive;
+}
+
+a{
+margin-left: 20px;
+margin-right: 20px;
+}
